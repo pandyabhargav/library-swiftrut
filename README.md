@@ -16,13 +16,17 @@
 ## Installation Frontend
 
  **cd client** 
+ 
   **npm i** 
+  
   **npm run dev** 
 
  ## Installation Backeend
 
  **cd server** 
-  **npm i** 
+ 
+  **npm i**
+  
   **npm start** 
 
 
